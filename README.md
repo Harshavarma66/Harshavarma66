@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm S. Harshavardhan
+# Hi there! 👋 I'm Sriramula Harshavardhan
 
 ## About Me
 I am a passionate software development intern and data analyst with a strong foundation in programming. I enjoy tackling challenging problems and continuously learning new technologies to enhance my skills.
