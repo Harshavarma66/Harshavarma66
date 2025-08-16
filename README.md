@@ -18,6 +18,6 @@ I am a passionate software developer and data analyst with a strong foundation i
 - 🎬 Watching movies
 
 ## Connect with Me
-- [LinkedIn](#) | [GitHub](#) | [Twitter](#)
+- [LinkedIn]www.linkedin.com/in/harsha-varma-sriramula | [GitHub](#) | [Twitter](#)
 
 Thanks for stopping by!
