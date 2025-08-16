@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sriramula Harshavardhan
 
 ## About Me
-I am a passionate software development intern and data analyst with a strong foundation in programming. I enjoy tackling challenging problems and continuously learning new technologies to enhance my skills.
+I am a passionate software developer and data analyst with a strong foundation in programming. I enjoy tackling challenging problems and continuously learning new technologies to enhance my skills.
 
 - 🌱 I’m currently learning and improving my skills in **HTML** and **JavaScript**.
 - 💻 I have experience in designing frontend interfaces for various companies like Mangosorange, Gennextit, GoHackathon, Vastuteq, and Pg Hostel.
@@ -10,7 +10,7 @@ I am a passionate software development intern and data analyst with a strong fou
 
 ## Skills
 - **Languages:** C, Java, Python, HTML, CSS, JavaScript
-- **Tools & Technologies:** Git, React, Bootstrap, SQL
+- **Tools & Technologies:** Git, SQL, Power BI, Tableau, Figma
 - **Data Analysis:** Data Cleaning, Data Visualization, Statistical Analysis
 
 ## Hobbies
