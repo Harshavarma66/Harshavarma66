@@ -7,6 +7,8 @@ I am a passionate software developer and data analyst with a strong foundation i
 - 💻 I have experience in designing frontend interfaces for various companies like Mangosorange, Gennextit, GoHackathon, Vastuteq, and Pg Hostel.
 - ⚡ I’m particularly interested in software development, data analysis, and UI/UX design.
 - 🎯 My goal is to leverage my skills to contribute effectively to innovative projects.
+## 🌐 Portfolio
+Check out my portfolio: [https://68a0298b168d2.site123.me/](https://68a0298b168d2.site123.me/)
 
 ## Skills
 - **Languages:** C, Java, Python, HTML, CSS, JavaScript
